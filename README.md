@@ -1,2 +1,1 @@
-# PrepCourse-Oscar
-este es un repositorio de prueba del modulo 2 del prepcourse de henry
+# esto es un proyecto de prueba como crear un repositorio y clonarlo de github a mi directorio local
